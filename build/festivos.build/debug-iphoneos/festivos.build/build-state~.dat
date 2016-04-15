@@ -1,0 +1,485 @@
+TFestivos
+v6
+r1
+cCheck dependencies
+cProcessPCH /var/folders/dm/07knvstx07d9zd0m3r8lsv8m0000gp/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Festivos-Prefix-bshzisdkjkwwjicgeodtrdcacbnt/Festivos-Prefix.pch.pch Festivos/Festivos-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH /var/folders/dm/07knvstx07d9zd0m3r8lsv8m0000gp/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Festivos-Prefix-euhufzihzfepcmbrncfshymztxup/Festivos-Prefix.pch.pch Festivos/Festivos-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH /var/folders/dm/07knvstx07d9zd0m3r8lsv8m0000gp/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Festivos-Prefix-cxuqupvmurmslnbwcsjijcrugvle/Festivos-Prefix.pch.pch Festivos/Festivos-Prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Festivos.build/Debug-iphoneos/Festivos.build/Objects-normal/armv7/Festivos.o /Users/cgaitan/Desktop/Festivos/Festivos/Festivos.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Festivos.build/Debug-iphoneos/Festivos.build/Objects-normal/armv7/Calculos.o /Users/cgaitan/Desktop/Festivos/Festivos/Calculos.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Festivos.build/Debug-iphoneos/Festivos.build/Objects-normal/armv7/FechasFestivas.o /Users/cgaitan/Desktop/Festivos/Festivos/FechasFestivas.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Festivos.build/Debug-iphoneos/Festivos.build/Objects-normal/armv7/VerificadorDeFestivos.o /Users/cgaitan/Desktop/Festivos/Festivos/VerificadorDeFestivos.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Festivos.build/Debug-iphoneos/Festivos.build/Objects-normal/armv7s/Festivos.o /Users/cgaitan/Desktop/Festivos/Festivos/Festivos.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Festivos.build/Debug-iphoneos/Festivos.build/Objects-normal/armv7s/Calculos.o /Users/cgaitan/Desktop/Festivos/Festivos/Calculos.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Festivos.build/Debug-iphoneos/Festivos.build/Objects-normal/armv7s/FechasFestivas.o /Users/cgaitan/Desktop/Festivos/Festivos/FechasFestivas.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Festivos.build/Debug-iphoneos/Festivos.build/Objects-normal/armv7s/VerificadorDeFestivos.o /Users/cgaitan/Desktop/Festivos/Festivos/VerificadorDeFestivos.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Festivos.build/Debug-iphoneos/Festivos.build/Objects-normal/arm64/Festivos.o /Users/cgaitan/Desktop/Festivos/Festivos/Festivos.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Festivos.build/Debug-iphoneos/Festivos.build/Objects-normal/arm64/Calculos.o /Users/cgaitan/Desktop/Festivos/Festivos/Calculos.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Festivos.build/Debug-iphoneos/Festivos.build/Objects-normal/arm64/FechasFestivas.o /Users/cgaitan/Desktop/Festivos/Festivos/FechasFestivas.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Festivos.build/Debug-iphoneos/Festivos.build/Objects-normal/arm64/VerificadorDeFestivos.o /Users/cgaitan/Desktop/Festivos/Festivos/VerificadorDeFestivos.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/cgaitan/Desktop/Festivos/build/Festivos.build/Debug-iphoneos/Festivos.build/Objects-normal/armv7/libFestivos.a normal armv7
+cLibtool /Users/cgaitan/Desktop/Festivos/build/Festivos.build/Debug-iphoneos/Festivos.build/Objects-normal/armv7s/libFestivos.a normal armv7s
+cLibtool /Users/cgaitan/Desktop/Festivos/build/Festivos.build/Debug-iphoneos/Festivos.build/Objects-normal/arm64/libFestivos.a normal arm64
+cCreateUniversalBinary /Users/cgaitan/Library/Developer/Xcode/DerivedData/Festivos-afyohxwkijhmpehdwoycdlcfvidp/Build/Products/Debug-iphoneos/libFestivos.a normal armv7\ armv7s\ arm64
+cPBXCp Festivos/Festivos.h /Users/cgaitan/Library/Developer/Xcode/DerivedData/Festivos-afyohxwkijhmpehdwoycdlcfvidp/Build/Products/Debug-iphoneos/include/Festivos/Festivos.h
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk
+c00000000525642EE0000000000000110
+t1381384942
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/SDKSettings.plist
+c00000000527843AE000000000000036B
+t1383613358
+s875
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000527843AE00000000000001A0
+t1383613358
+s416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000527843B10000000000A92BC0
+t1383613361
+s11086784
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/include/module.map
+c00000000525638CE0000000000000AC9
+t1381382350
+s2761
+
+N/Users/cgaitan/Desktop/Festivos/Festivos/Calculos.m
+c00000000533AD6580000000000001527
+t1396364888
+s5415
+
+N/Users/cgaitan/Desktop/Festivos/Festivos/FechasFestivas.m
+c00000000533AD50F00000000000000D0
+t1396364559
+s208
+
+N/Users/cgaitan/Desktop/Festivos/Festivos/Festivos-Prefix.pch
+c00000000533AEC9700000000000000B6
+t1396370583
+s182
+
+N/Users/cgaitan/Desktop/Festivos/Festivos/Festivos.h
+c00000000533AED3D0000000000000203
+t1396370749
+s515
+
+N/Users/cgaitan/Desktop/Festivos/Festivos/Festivos.m
+c00000000533AED3C0000000000000430
+t1396370748
+s1072
+
+N/Users/cgaitan/Desktop/Festivos/Festivos/VerificadorDeFestivos.m
+c00000000533AD57C00000000000028C9
+t1396364668
+s10441
+
+N/Users/cgaitan/Desktop/Festivos/build/Festivos.build/Debug-iphoneos/Festivos.build/Objects-normal/arm64/Calculos.o
+t1396370840
+s29796
+
+N/Users/cgaitan/Desktop/Festivos/build/Festivos.build/Debug-iphoneos/Festivos.build/Objects-normal/arm64/FechasFestivas.o
+t1396370840
+s4088
+
+N/Users/cgaitan/Desktop/Festivos/build/Festivos.build/Debug-iphoneos/Festivos.build/Objects-normal/arm64/Festivos.LinkFileList
+c00000000533AED9500000000000001DF
+t1396370837
+s479
+
+N/Users/cgaitan/Desktop/Festivos/build/Festivos.build/Debug-iphoneos/Festivos.build/Objects-normal/arm64/Festivos.o
+t1396370840
+s12792
+
+N/Users/cgaitan/Desktop/Festivos/build/Festivos.build/Debug-iphoneos/Festivos.build/Objects-normal/arm64/VerificadorDeFestivos.o
+t1396370840
+s43096
+
+N/Users/cgaitan/Desktop/Festivos/build/Festivos.build/Debug-iphoneos/Festivos.build/Objects-normal/arm64/libFestivos.a
+t1396370840
+s90808
+
+N/Users/cgaitan/Desktop/Festivos/build/Festivos.build/Debug-iphoneos/Festivos.build/Objects-normal/armv7/Calculos.o
+t1396370840
+s27520
+
+N/Users/cgaitan/Desktop/Festivos/build/Festivos.build/Debug-iphoneos/Festivos.build/Objects-normal/armv7/FechasFestivas.o
+t1396370840
+s3512
+
+N/Users/cgaitan/Desktop/Festivos/build/Festivos.build/Debug-iphoneos/Festivos.build/Objects-normal/armv7/Festivos.LinkFileList
+c00000000533AED9500000000000001DF
+t1396370837
+s479
+
+N/Users/cgaitan/Desktop/Festivos/build/Festivos.build/Debug-iphoneos/Festivos.build/Objects-normal/armv7/Festivos.o
+t1396370840
+s11048
+
+N/Users/cgaitan/Desktop/Festivos/build/Festivos.build/Debug-iphoneos/Festivos.build/Objects-normal/armv7/VerificadorDeFestivos.o
+t1396370840
+s42288
+
+N/Users/cgaitan/Desktop/Festivos/build/Festivos.build/Debug-iphoneos/Festivos.build/Objects-normal/armv7/libFestivos.a
+t1396370840
+s85400
+
+N/Users/cgaitan/Desktop/Festivos/build/Festivos.build/Debug-iphoneos/Festivos.build/Objects-normal/armv7s/Calculos.o
+t1396370840
+s27520
+
+N/Users/cgaitan/Desktop/Festivos/build/Festivos.build/Debug-iphoneos/Festivos.build/Objects-normal/armv7s/FechasFestivas.o
+t1396370840
+s3512
+
+N/Users/cgaitan/Desktop/Festivos/build/Festivos.build/Debug-iphoneos/Festivos.build/Objects-normal/armv7s/Festivos.LinkFileList
+c00000000533AED9600000000000001E3
+t1396370838
+s483
+
+N/Users/cgaitan/Desktop/Festivos/build/Festivos.build/Debug-iphoneos/Festivos.build/Objects-normal/armv7s/Festivos.o
+t1396370840
+s11048
+
+N/Users/cgaitan/Desktop/Festivos/build/Festivos.build/Debug-iphoneos/Festivos.build/Objects-normal/armv7s/VerificadorDeFestivos.o
+t1396370840
+s42304
+
+N/Users/cgaitan/Desktop/Festivos/build/Festivos.build/Debug-iphoneos/Festivos.build/Objects-normal/armv7s/libFestivos.a
+t1396370840
+s85416
+
+N/Users/cgaitan/Library/Developer/Xcode/DerivedData/Festivos-afyohxwkijhmpehdwoycdlcfvidp/Build/Products/Debug-iphoneos/include/Festivos/Festivos.h
+t2
+s0
+
+N/Users/cgaitan/Library/Developer/Xcode/DerivedData/Festivos-afyohxwkijhmpehdwoycdlcfvidp/Build/Products/Debug-iphoneos/libFestivos.a
+t2
+s0
+
+N/var/folders/dm/07knvstx07d9zd0m3r8lsv8m0000gp/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Festivos-Prefix-bshzisdkjkwwjicgeodtrdcacbnt/Festivos-Prefix.pch.pch
+t1396370839
+s84388
+
+N/var/folders/dm/07knvstx07d9zd0m3r8lsv8m0000gp/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Festivos-Prefix-cxuqupvmurmslnbwcsjijcrugvle/Festivos-Prefix.pch.pch
+t1396370840
+s107936
+
+N/var/folders/dm/07knvstx07d9zd0m3r8lsv8m0000gp/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Festivos-Prefix-euhufzihzfepcmbrncfshymztxup/Festivos-Prefix.pch.pch
+t1396370839
+s84368
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies8351c11525ebb841^7d95001625ebb841^---0#1#1#--18"Check dependencies36"B8021A67-53B0-4512-B05A-55F98336A3C2-
+
+CCompileC build/Festivos.build/Debug-iphoneos/Festivos.build/Objects-normal/arm64/Calculos.o /Users/cgaitan/Desktop/Festivos/Festivos/Calculos.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s418063640.731594
+e418063640.831108
+r1
+xCompileC
+xbuild/Festivos.build/Debug-iphoneos/Festivos.build/Objects-normal/arm64/Calculos.o
+x/Users/cgaitan/Desktop/Festivos/Festivos/Calculos.m
+xnormal
+xarm64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/cgaitan/Desktop/Festivos/Festivos/Calculos.m
+d/Users/cgaitan/Desktop/Festivos/Festivos/Calculos.h
+d/Users/cgaitan/Desktop/Festivos/Festivos/FechasFestivas.h
+d/Users/cgaitan/Desktop/Festivos/Festivos/VerificadorDeFestivos.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection59"Compile /Users/cgaitan/Desktop/Festivos/Festivos/Calculos.m180"CompileC build/Festivos.build/Debug-iphoneos/Festivos.build/Objects-normal/arm64/Calculos.o Festivos/Calculos.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compilereeb2bb1825ebb841^22c5d41825ebb841^---0#0#1#-19%DVTDocumentLocation2@58"file:///Users/cgaitan/Desktop/Festivos/Festivos/Calculos.m0000000000000000^3293"CompileC build/Festivos.build/Debug-iphoneos/Festivos.build/Objects-normal/arm64/Calculos.o Festivos/Calculos.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/cgaitan/Desktop/Festivos    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/var/folders/dm/07knvstx07d9zd0m3r8lsv8m0000gp/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/cgaitan/Desktop/Festivos/build/Festivos.build/Debug-iphoneos/Festivos.build/Festivos-generated-files.hmap -I/Users/cgaitan/Desktop/Festivos/build/Festivos.build/Debug-iphoneos/Festivos.build/Festivos-own-target-headers.hmap -I/Users/cgaitan/Desktop/Festivos/build/Festivos.build/Debug-iphoneos/Festivos.build/Festivos-all-target-headers.hmap -iquote /Users/cgaitan/Desktop/Festivos/build/Festivos.build/Debug-iphoneos/Festivos.build/Festivos-project-headers.hmap -I/Users/cgaitan/Library/Developer/Xcode/DerivedData/Festivos-afyohxwkijhmpehdwoycdlcfvidp/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/cgaitan/Desktop/Festivos/build/Festivos.build/Debug-iphoneos/Festivos.build/DerivedSources/arm64 -I/Users/cgaitan/Desktop/Festivos/build/Festivos.build/Debug-iphoneos/Festivos.build/DerivedSources -F/Users/cgaitan/Library/Developer/Xcode/DerivedData/Festivos-afyohxwkijhmpehdwoycdlcfvidp/Build/Products/Debug-iphoneos -include /var/folders/dm/07knvstx07d9zd0m3r8lsv8m0000gp/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Festivos-Prefix-cxuqupvmurmslnbwcsjijcrugvle/Festivos-Prefix.pch -MMD -MT dependencies -MF /Users/cgaitan/Desktop/Festivos/build/Festivos.build/Debug-iphoneos/Festivos.build/Objects-normal/arm64/Calculos.d --serialize-diagnostics /Users/cgaitan/Desktop/Festivos/build/Festivos.build/Debug-iphoneos/Festivos.build/Objects-normal/arm64/Calculos.dia -c /Users/cgaitan/Desktop/Festivos/Festivos/Calculos.m -o /Users/cgaitan/Desktop/Festivos/build/Festivos.build/Debug-iphoneos/Festivos.build/Objects-normal/arm64/Calculos.o36"449734A7-9A29-4675-A70E-A7980F45E3AA-
+b9B271281-D621-4165-952C-004DF466C56A
+
+CCompileC build/Festivos.build/Debug-iphoneos/Festivos.build/Objects-normal/arm64/FechasFestivas.o /Users/cgaitan/Desktop/Festivos/Festivos/FechasFestivas.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s418063640.760880
+e418063640.803965
+r1
+xCompileC
+xbuild/Festivos.build/Debug-iphoneos/Festivos.build/Objects-normal/arm64/FechasFestivas.o
+x/Users/cgaitan/Desktop/Festivos/Festivos/FechasFestivas.m
+xnormal
+xarm64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/cgaitan/Desktop/Festivos/Festivos/FechasFestivas.m
+d/Users/cgaitan/Desktop/Festivos/Festivos/FechasFestivas.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"Compile /Users/cgaitan/Desktop/Festivos/Festivos/FechasFestivas.m192"CompileC build/Festivos.build/Debug-iphoneos/Festivos.build/Objects-normal/arm64/FechasFestivas.o Festivos/FechasFestivas.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler5a2ec31825ebb841^4ef0cd1825ebb841^---0#0#1#-19%DVTDocumentLocation2@64"file:///Users/cgaitan/Desktop/Festivos/Festivos/FechasFestivas.m0000000000000000^3329"CompileC build/Festivos.build/Debug-iphoneos/Festivos.build/Objects-normal/arm64/FechasFestivas.o Festivos/FechasFestivas.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/cgaitan/Desktop/Festivos    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/var/folders/dm/07knvstx07d9zd0m3r8lsv8m0000gp/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/cgaitan/Desktop/Festivos/build/Festivos.build/Debug-iphoneos/Festivos.build/Festivos-generated-files.hmap -I/Users/cgaitan/Desktop/Festivos/build/Festivos.build/Debug-iphoneos/Festivos.build/Festivos-own-target-headers.hmap -I/Users/cgaitan/Desktop/Festivos/build/Festivos.build/Debug-iphoneos/Festivos.build/Festivos-all-target-headers.hmap -iquote /Users/cgaitan/Desktop/Festivos/build/Festivos.build/Debug-iphoneos/Festivos.build/Festivos-project-headers.hmap -I/Users/cgaitan/Library/Developer/Xcode/DerivedData/Festivos-afyohxwkijhmpehdwoycdlcfvidp/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/cgaitan/Desktop/Festivos/build/Festivos.build/Debug-iphoneos/Festivos.build/DerivedSources/arm64 -I/Users/cgaitan/Desktop/Festivos/build/Festivos.build/Debug-iphoneos/Festivos.build/DerivedSources -F/Users/cgaitan/Library/Developer/Xcode/DerivedData/Festivos-afyohxwkijhmpehdwoycdlcfvidp/Build/Products/Debug-iphoneos -include /var/folders/dm/07knvstx07d9zd0m3r8lsv8m0000gp/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Festivos-Prefix-cxuqupvmurmslnbwcsjijcrugvle/Festivos-Prefix.pch -MMD -MT dependencies -MF /Users/cgaitan/Desktop/Festivos/build/Festivos.build/Debug-iphoneos/Festivos.build/Objects-normal/arm64/FechasFestivas.d --serialize-diagnostics /Users/cgaitan/Desktop/Festivos/build/Festivos.build/Debug-iphoneos/Festivos.build/Objects-normal/arm64/FechasFestivas.dia -c /Users/cgaitan/Desktop/Festivos/Festivos/FechasFestivas.m -o /Users/cgaitan/Desktop/Festivos/build/Festivos.build/Debug-iphoneos/Festivos.build/Objects-normal/arm64/FechasFestivas.o36"3A8B00AF-DE02-41F7-AE20-745F10A35A87-
+b9B271281-D621-4165-952C-004DF466C56A
+
+CCompileC build/Festivos.build/Debug-iphoneos/Festivos.build/Objects-normal/arm64/Festivos.o /Users/cgaitan/Desktop/Festivos/Festivos/Festivos.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s418063640.730756
+e418063640.800355
+r1
+xCompileC
+xbuild/Festivos.build/Debug-iphoneos/Festivos.build/Objects-normal/arm64/Festivos.o
+x/Users/cgaitan/Desktop/Festivos/Festivos/Festivos.m
+xnormal
+xarm64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/cgaitan/Desktop/Festivos/Festivos/Festivos.m
+d/Users/cgaitan/Desktop/Festivos/Festivos/Festivos.h
+d/Users/cgaitan/Desktop/Festivos/Festivos/Calculos.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection59"Compile /Users/cgaitan/Desktop/Festivos/Festivos/Festivos.m180"CompileC build/Festivos.build/Debug-iphoneos/Festivos.build/Objects-normal/arm64/Festivos.o Festivos/Festivos.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compilera7afbb1825ebb841^7ceecc1825ebb841^---0#0#1#-19%DVTDocumentLocation2@58"file:///Users/cgaitan/Desktop/Festivos/Festivos/Festivos.m0000000000000000^3293"CompileC build/Festivos.build/Debug-iphoneos/Festivos.build/Objects-normal/arm64/Festivos.o Festivos/Festivos.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/cgaitan/Desktop/Festivos    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/var/folders/dm/07knvstx07d9zd0m3r8lsv8m0000gp/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/cgaitan/Desktop/Festivos/build/Festivos.build/Debug-iphoneos/Festivos.build/Festivos-generated-files.hmap -I/Users/cgaitan/Desktop/Festivos/build/Festivos.build/Debug-iphoneos/Festivos.build/Festivos-own-target-headers.hmap -I/Users/cgaitan/Desktop/Festivos/build/Festivos.build/Debug-iphoneos/Festivos.build/Festivos-all-target-headers.hmap -iquote /Users/cgaitan/Desktop/Festivos/build/Festivos.build/Debug-iphoneos/Festivos.build/Festivos-project-headers.hmap -I/Users/cgaitan/Library/Developer/Xcode/DerivedData/Festivos-afyohxwkijhmpehdwoycdlcfvidp/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/cgaitan/Desktop/Festivos/build/Festivos.build/Debug-iphoneos/Festivos.build/DerivedSources/arm64 -I/Users/cgaitan/Desktop/Festivos/build/Festivos.build/Debug-iphoneos/Festivos.build/DerivedSources -F/Users/cgaitan/Library/Developer/Xcode/DerivedData/Festivos-afyohxwkijhmpehdwoycdlcfvidp/Build/Products/Debug-iphoneos -include /var/folders/dm/07knvstx07d9zd0m3r8lsv8m0000gp/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Festivos-Prefix-cxuqupvmurmslnbwcsjijcrugvle/Festivos-Prefix.pch -MMD -MT dependencies -MF /Users/cgaitan/Desktop/Festivos/build/Festivos.build/Debug-iphoneos/Festivos.build/Objects-normal/arm64/Festivos.d --serialize-diagnostics /Users/cgaitan/Desktop/Festivos/build/Festivos.build/Debug-iphoneos/Festivos.build/Objects-normal/arm64/Festivos.dia -c /Users/cgaitan/Desktop/Festivos/Festivos/Festivos.m -o /Users/cgaitan/Desktop/Festivos/build/Festivos.build/Debug-iphoneos/Festivos.build/Objects-normal/arm64/Festivos.o36"3FDD9183-5AE3-4856-852B-FD1D95A3A6B5-
+b9B271281-D621-4165-952C-004DF466C56A
+
+CCompileC build/Festivos.build/Debug-iphoneos/Festivos.build/Objects-normal/arm64/VerificadorDeFestivos.o /Users/cgaitan/Desktop/Festivos/Festivos/VerificadorDeFestivos.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s418063640.800614
+e418063640.865370
+r1
+xCompileC
+xbuild/Festivos.build/Debug-iphoneos/Festivos.build/Objects-normal/arm64/VerificadorDeFestivos.o
+x/Users/cgaitan/Desktop/Festivos/Festivos/VerificadorDeFestivos.m
+xnormal
+xarm64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/cgaitan/Desktop/Festivos/Festivos/VerificadorDeFestivos.m
+d/Users/cgaitan/Desktop/Festivos/Festivos/VerificadorDeFestivos.h
+d/Users/cgaitan/Desktop/Festivos/Festivos/FechasFestivas.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection72"Compile /Users/cgaitan/Desktop/Festivos/Festivos/VerificadorDeFestivos.m206"CompileC build/Festivos.build/Debug-iphoneos/Festivos.build/Objects-normal/arm64/VerificadorDeFestivos.o Festivos/VerificadorDeFestivos.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler724dcd1825ebb841^f089dd1825ebb841^---0#0#1#-19%DVTDocumentLocation2@71"file:///Users/cgaitan/Desktop/Festivos/Festivos/VerificadorDeFestivos.m0000000000000000^3371"CompileC build/Festivos.build/Debug-iphoneos/Festivos.build/Objects-normal/arm64/VerificadorDeFestivos.o Festivos/VerificadorDeFestivos.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/cgaitan/Desktop/Festivos    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/var/folders/dm/07knvstx07d9zd0m3r8lsv8m0000gp/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/cgaitan/Desktop/Festivos/build/Festivos.build/Debug-iphoneos/Festivos.build/Festivos-generated-files.hmap -I/Users/cgaitan/Desktop/Festivos/build/Festivos.build/Debug-iphoneos/Festivos.build/Festivos-own-target-headers.hmap -I/Users/cgaitan/Desktop/Festivos/build/Festivos.build/Debug-iphoneos/Festivos.build/Festivos-all-target-headers.hmap -iquote /Users/cgaitan/Desktop/Festivos/build/Festivos.build/Debug-iphoneos/Festivos.build/Festivos-project-headers.hmap -I/Users/cgaitan/Library/Developer/Xcode/DerivedData/Festivos-afyohxwkijhmpehdwoycdlcfvidp/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/cgaitan/Desktop/Festivos/build/Festivos.build/Debug-iphoneos/Festivos.build/DerivedSources/arm64 -I/Users/cgaitan/Desktop/Festivos/build/Festivos.build/Debug-iphoneos/Festivos.build/DerivedSources -F/Users/cgaitan/Library/Developer/Xcode/DerivedData/Festivos-afyohxwkijhmpehdwoycdlcfvidp/Build/Products/Debug-iphoneos -include /var/folders/dm/07knvstx07d9zd0m3r8lsv8m0000gp/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Festivos-Prefix-cxuqupvmurmslnbwcsjijcrugvle/Festivos-Prefix.pch -MMD -MT dependencies -MF /Users/cgaitan/Desktop/Festivos/build/Festivos.build/Debug-iphoneos/Festivos.build/Objects-normal/arm64/VerificadorDeFestivos.d --serialize-diagnostics /Users/cgaitan/Desktop/Festivos/build/Festivos.build/Debug-iphoneos/Festivos.build/Objects-normal/arm64/VerificadorDeFestivos.dia -c /Users/cgaitan/Desktop/Festivos/Festivos/VerificadorDeFestivos.m -o /Users/cgaitan/Desktop/Festivos/build/Festivos.build/Debug-iphoneos/Festivos.build/Objects-normal/arm64/VerificadorDeFestivos.o36"5E914D0E-D596-48C7-B550-8B0DBC357988-
+b9B271281-D621-4165-952C-004DF466C56A
+
+CCompileC build/Festivos.build/Debug-iphoneos/Festivos.build/Objects-normal/armv7/Calculos.o /Users/cgaitan/Desktop/Festivos/Festivos/Calculos.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s418063640.229700
+e418063640.667241
+r1
+xCompileC
+xbuild/Festivos.build/Debug-iphoneos/Festivos.build/Objects-normal/armv7/Calculos.o
+x/Users/cgaitan/Desktop/Festivos/Festivos/Calculos.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/cgaitan/Desktop/Festivos/Festivos/Calculos.m
+d/Users/cgaitan/Desktop/Festivos/Festivos/Calculos.h
+d/Users/cgaitan/Desktop/Festivos/Festivos/FechasFestivas.h
+d/Users/cgaitan/Desktop/Festivos/Festivos/VerificadorDeFestivos.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection59"Compile /Users/cgaitan/Desktop/Festivos/Festivos/Calculos.m180"CompileC build/Festivos.build/Debug-iphoneos/Festivos.build/Objects-normal/armv7/Calculos.o Festivos/Calculos.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compilerc2353b1825ebb841^81d0aa1825ebb841^---0#0#1#-19%DVTDocumentLocation2@58"file:///Users/cgaitan/Desktop/Festivos/Festivos/Calculos.m0000000000000000^3293"CompileC build/Festivos.build/Debug-iphoneos/Festivos.build/Objects-normal/armv7/Calculos.o Festivos/Calculos.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/cgaitan/Desktop/Festivos    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/var/folders/dm/07knvstx07d9zd0m3r8lsv8m0000gp/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/cgaitan/Desktop/Festivos/build/Festivos.build/Debug-iphoneos/Festivos.build/Festivos-generated-files.hmap -I/Users/cgaitan/Desktop/Festivos/build/Festivos.build/Debug-iphoneos/Festivos.build/Festivos-own-target-headers.hmap -I/Users/cgaitan/Desktop/Festivos/build/Festivos.build/Debug-iphoneos/Festivos.build/Festivos-all-target-headers.hmap -iquote /Users/cgaitan/Desktop/Festivos/build/Festivos.build/Debug-iphoneos/Festivos.build/Festivos-project-headers.hmap -I/Users/cgaitan/Library/Developer/Xcode/DerivedData/Festivos-afyohxwkijhmpehdwoycdlcfvidp/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/cgaitan/Desktop/Festivos/build/Festivos.build/Debug-iphoneos/Festivos.build/DerivedSources/armv7 -I/Users/cgaitan/Desktop/Festivos/build/Festivos.build/Debug-iphoneos/Festivos.build/DerivedSources -F/Users/cgaitan/Library/Developer/Xcode/DerivedData/Festivos-afyohxwkijhmpehdwoycdlcfvidp/Build/Products/Debug-iphoneos -include /var/folders/dm/07knvstx07d9zd0m3r8lsv8m0000gp/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Festivos-Prefix-bshzisdkjkwwjicgeodtrdcacbnt/Festivos-Prefix.pch -MMD -MT dependencies -MF /Users/cgaitan/Desktop/Festivos/build/Festivos.build/Debug-iphoneos/Festivos.build/Objects-normal/armv7/Calculos.d --serialize-diagnostics /Users/cgaitan/Desktop/Festivos/build/Festivos.build/Debug-iphoneos/Festivos.build/Objects-normal/armv7/Calculos.dia -c /Users/cgaitan/Desktop/Festivos/Festivos/Calculos.m -o /Users/cgaitan/Desktop/Festivos/build/Festivos.build/Debug-iphoneos/Festivos.build/Objects-normal/armv7/Calculos.o36"C87AEEBE-5ED1-4A3B-A7EA-4BFE745C56C6-
+b9B271281-D621-4165-952C-004DF466C56A
+
+CCompileC build/Festivos.build/Debug-iphoneos/Festivos.build/Objects-normal/armv7/FechasFestivas.o /Users/cgaitan/Desktop/Festivos/Festivos/FechasFestivas.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s418063640.229969
+e418063640.619539
+r1
+xCompileC
+xbuild/Festivos.build/Debug-iphoneos/Festivos.build/Objects-normal/armv7/FechasFestivas.o
+x/Users/cgaitan/Desktop/Festivos/Festivos/FechasFestivas.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/cgaitan/Desktop/Festivos/Festivos/FechasFestivas.m
+d/Users/cgaitan/Desktop/Festivos/Festivos/FechasFestivas.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"Compile /Users/cgaitan/Desktop/Festivos/Festivos/FechasFestivas.m192"CompileC build/Festivos.build/Debug-iphoneos/Festivos.build/Objects-normal/armv7/FechasFestivas.o Festivos/FechasFestivas.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler96433b1825ebb841^ce889e1825ebb841^---0#0#1#-19%DVTDocumentLocation2@64"file:///Users/cgaitan/Desktop/Festivos/Festivos/FechasFestivas.m0000000000000000^3329"CompileC build/Festivos.build/Debug-iphoneos/Festivos.build/Objects-normal/armv7/FechasFestivas.o Festivos/FechasFestivas.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/cgaitan/Desktop/Festivos    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/var/folders/dm/07knvstx07d9zd0m3r8lsv8m0000gp/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/cgaitan/Desktop/Festivos/build/Festivos.build/Debug-iphoneos/Festivos.build/Festivos-generated-files.hmap -I/Users/cgaitan/Desktop/Festivos/build/Festivos.build/Debug-iphoneos/Festivos.build/Festivos-own-target-headers.hmap -I/Users/cgaitan/Desktop/Festivos/build/Festivos.build/Debug-iphoneos/Festivos.build/Festivos-all-target-headers.hmap -iquote /Users/cgaitan/Desktop/Festivos/build/Festivos.build/Debug-iphoneos/Festivos.build/Festivos-project-headers.hmap -I/Users/cgaitan/Library/Developer/Xcode/DerivedData/Festivos-afyohxwkijhmpehdwoycdlcfvidp/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/cgaitan/Desktop/Festivos/build/Festivos.build/Debug-iphoneos/Festivos.build/DerivedSources/armv7 -I/Users/cgaitan/Desktop/Festivos/build/Festivos.build/Debug-iphoneos/Festivos.build/DerivedSources -F/Users/cgaitan/Library/Developer/Xcode/DerivedData/Festivos-afyohxwkijhmpehdwoycdlcfvidp/Build/Products/Debug-iphoneos -include /var/folders/dm/07knvstx07d9zd0m3r8lsv8m0000gp/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Festivos-Prefix-bshzisdkjkwwjicgeodtrdcacbnt/Festivos-Prefix.pch -MMD -MT dependencies -MF /Users/cgaitan/Desktop/Festivos/build/Festivos.build/Debug-iphoneos/Festivos.build/Objects-normal/armv7/FechasFestivas.d --serialize-diagnostics /Users/cgaitan/Desktop/Festivos/build/Festivos.build/Debug-iphoneos/Festivos.build/Objects-normal/armv7/FechasFestivas.dia -c /Users/cgaitan/Desktop/Festivos/Festivos/FechasFestivas.m -o /Users/cgaitan/Desktop/Festivos/build/Festivos.build/Debug-iphoneos/Festivos.build/Objects-normal/armv7/FechasFestivas.o36"7FB02826-54D7-4FA6-A970-7C87D02B55F1-
+b9B271281-D621-4165-952C-004DF466C56A
+
+CCompileC build/Festivos.build/Debug-iphoneos/Festivos.build/Objects-normal/armv7/Festivos.o /Users/cgaitan/Desktop/Festivos/Festivos/Festivos.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s418063640.229464
+e418063640.620007
+r1
+xCompileC
+xbuild/Festivos.build/Debug-iphoneos/Festivos.build/Objects-normal/armv7/Festivos.o
+x/Users/cgaitan/Desktop/Festivos/Festivos/Festivos.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/cgaitan/Desktop/Festivos/Festivos/Festivos.m
+d/Users/cgaitan/Desktop/Festivos/Festivos/Festivos.h
+d/Users/cgaitan/Desktop/Festivos/Festivos/Calculos.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection59"Compile /Users/cgaitan/Desktop/Festivos/Festivos/Festivos.m180"CompileC build/Festivos.build/Debug-iphoneos/Festivos.build/Objects-normal/armv7/Festivos.o Festivos/Festivos.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compilerb3293b1825ebb841^f8e39e1825ebb841^---0#0#1#-19%DVTDocumentLocation2@58"file:///Users/cgaitan/Desktop/Festivos/Festivos/Festivos.m0000000000000000^3293"CompileC build/Festivos.build/Debug-iphoneos/Festivos.build/Objects-normal/armv7/Festivos.o Festivos/Festivos.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/cgaitan/Desktop/Festivos    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/var/folders/dm/07knvstx07d9zd0m3r8lsv8m0000gp/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/cgaitan/Desktop/Festivos/build/Festivos.build/Debug-iphoneos/Festivos.build/Festivos-generated-files.hmap -I/Users/cgaitan/Desktop/Festivos/build/Festivos.build/Debug-iphoneos/Festivos.build/Festivos-own-target-headers.hmap -I/Users/cgaitan/Desktop/Festivos/build/Festivos.build/Debug-iphoneos/Festivos.build/Festivos-all-target-headers.hmap -iquote /Users/cgaitan/Desktop/Festivos/build/Festivos.build/Debug-iphoneos/Festivos.build/Festivos-project-headers.hmap -I/Users/cgaitan/Library/Developer/Xcode/DerivedData/Festivos-afyohxwkijhmpehdwoycdlcfvidp/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/cgaitan/Desktop/Festivos/build/Festivos.build/Debug-iphoneos/Festivos.build/DerivedSources/armv7 -I/Users/cgaitan/Desktop/Festivos/build/Festivos.build/Debug-iphoneos/Festivos.build/DerivedSources -F/Users/cgaitan/Library/Developer/Xcode/DerivedData/Festivos-afyohxwkijhmpehdwoycdlcfvidp/Build/Products/Debug-iphoneos -include /var/folders/dm/07knvstx07d9zd0m3r8lsv8m0000gp/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Festivos-Prefix-bshzisdkjkwwjicgeodtrdcacbnt/Festivos-Prefix.pch -MMD -MT dependencies -MF /Users/cgaitan/Desktop/Festivos/build/Festivos.build/Debug-iphoneos/Festivos.build/Objects-normal/armv7/Festivos.d --serialize-diagnostics /Users/cgaitan/Desktop/Festivos/build/Festivos.build/Debug-iphoneos/Festivos.build/Objects-normal/armv7/Festivos.dia -c /Users/cgaitan/Desktop/Festivos/Festivos/Festivos.m -o /Users/cgaitan/Desktop/Festivos/build/Festivos.build/Debug-iphoneos/Festivos.build/Objects-normal/armv7/Festivos.o36"D9B4C671-D2E3-44B0-B340-3A7B8AAF9720-
+b9B271281-D621-4165-952C-004DF466C56A
+
+CCompileC build/Festivos.build/Debug-iphoneos/Festivos.build/Objects-normal/armv7/VerificadorDeFestivos.o /Users/cgaitan/Desktop/Festivos/Festivos/VerificadorDeFestivos.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s418063640.231283
+e418063640.699189
+r1
+xCompileC
+xbuild/Festivos.build/Debug-iphoneos/Festivos.build/Objects-normal/armv7/VerificadorDeFestivos.o
+x/Users/cgaitan/Desktop/Festivos/Festivos/VerificadorDeFestivos.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/cgaitan/Desktop/Festivos/Festivos/VerificadorDeFestivos.m
+d/Users/cgaitan/Desktop/Festivos/Festivos/VerificadorDeFestivos.h
+d/Users/cgaitan/Desktop/Festivos/Festivos/FechasFestivas.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection72"Compile /Users/cgaitan/Desktop/Festivos/Festivos/VerificadorDeFestivos.m206"CompileC build/Festivos.build/Debug-iphoneos/Festivos.build/Objects-normal/armv7/VerificadorDeFestivos.o Festivos/VerificadorDeFestivos.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler7c9a3b1825ebb841^2271b31825ebb841^---0#0#1#-19%DVTDocumentLocation2@71"file:///Users/cgaitan/Desktop/Festivos/Festivos/VerificadorDeFestivos.m0000000000000000^3371"CompileC build/Festivos.build/Debug-iphoneos/Festivos.build/Objects-normal/armv7/VerificadorDeFestivos.o Festivos/VerificadorDeFestivos.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/cgaitan/Desktop/Festivos    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/var/folders/dm/07knvstx07d9zd0m3r8lsv8m0000gp/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/cgaitan/Desktop/Festivos/build/Festivos.build/Debug-iphoneos/Festivos.build/Festivos-generated-files.hmap -I/Users/cgaitan/Desktop/Festivos/build/Festivos.build/Debug-iphoneos/Festivos.build/Festivos-own-target-headers.hmap -I/Users/cgaitan/Desktop/Festivos/build/Festivos.build/Debug-iphoneos/Festivos.build/Festivos-all-target-headers.hmap -iquote /Users/cgaitan/Desktop/Festivos/build/Festivos.build/Debug-iphoneos/Festivos.build/Festivos-project-headers.hmap -I/Users/cgaitan/Library/Developer/Xcode/DerivedData/Festivos-afyohxwkijhmpehdwoycdlcfvidp/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/cgaitan/Desktop/Festivos/build/Festivos.build/Debug-iphoneos/Festivos.build/DerivedSources/armv7 -I/Users/cgaitan/Desktop/Festivos/build/Festivos.build/Debug-iphoneos/Festivos.build/DerivedSources -F/Users/cgaitan/Library/Developer/Xcode/DerivedData/Festivos-afyohxwkijhmpehdwoycdlcfvidp/Build/Products/Debug-iphoneos -include /var/folders/dm/07knvstx07d9zd0m3r8lsv8m0000gp/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Festivos-Prefix-bshzisdkjkwwjicgeodtrdcacbnt/Festivos-Prefix.pch -MMD -MT dependencies -MF /Users/cgaitan/Desktop/Festivos/build/Festivos.build/Debug-iphoneos/Festivos.build/Objects-normal/armv7/VerificadorDeFestivos.d --serialize-diagnostics /Users/cgaitan/Desktop/Festivos/build/Festivos.build/Debug-iphoneos/Festivos.build/Objects-normal/armv7/VerificadorDeFestivos.dia -c /Users/cgaitan/Desktop/Festivos/Festivos/VerificadorDeFestivos.m -o /Users/cgaitan/Desktop/Festivos/build/Festivos.build/Debug-iphoneos/Festivos.build/Objects-normal/armv7/VerificadorDeFestivos.o36"31F3C0A9-04A5-4716-A19A-A02261AB5B1B-
+b9B271281-D621-4165-952C-004DF466C56A
+
+CCompileC build/Festivos.build/Debug-iphoneos/Festivos.build/Objects-normal/armv7s/Calculos.o /Users/cgaitan/Desktop/Festivos/Festivos/Calculos.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s418063640.622233
+e418063640.760059
+r1
+xCompileC
+xbuild/Festivos.build/Debug-iphoneos/Festivos.build/Objects-normal/armv7s/Calculos.o
+x/Users/cgaitan/Desktop/Festivos/Festivos/Calculos.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/cgaitan/Desktop/Festivos/Festivos/Calculos.m
+d/Users/cgaitan/Desktop/Festivos/Festivos/Calculos.h
+d/Users/cgaitan/Desktop/Festivos/Festivos/FechasFestivas.h
+d/Users/cgaitan/Desktop/Festivos/Festivos/VerificadorDeFestivos.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection59"Compile /Users/cgaitan/Desktop/Festivos/Festivos/Calculos.m182"CompileC build/Festivos.build/Debug-iphoneos/Festivos.build/Objects-normal/armv7s/Calculos.o Festivos/Calculos.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler48a69f1825ebb841^0f09c31825ebb841^---0#0#1#-19%DVTDocumentLocation2@58"file:///Users/cgaitan/Desktop/Festivos/Festivos/Calculos.m0000000000000000^3300"CompileC build/Festivos.build/Debug-iphoneos/Festivos.build/Objects-normal/armv7s/Calculos.o Festivos/Calculos.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/cgaitan/Desktop/Festivos    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/var/folders/dm/07knvstx07d9zd0m3r8lsv8m0000gp/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/cgaitan/Desktop/Festivos/build/Festivos.build/Debug-iphoneos/Festivos.build/Festivos-generated-files.hmap -I/Users/cgaitan/Desktop/Festivos/build/Festivos.build/Debug-iphoneos/Festivos.build/Festivos-own-target-headers.hmap -I/Users/cgaitan/Desktop/Festivos/build/Festivos.build/Debug-iphoneos/Festivos.build/Festivos-all-target-headers.hmap -iquote /Users/cgaitan/Desktop/Festivos/build/Festivos.build/Debug-iphoneos/Festivos.build/Festivos-project-headers.hmap -I/Users/cgaitan/Library/Developer/Xcode/DerivedData/Festivos-afyohxwkijhmpehdwoycdlcfvidp/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/cgaitan/Desktop/Festivos/build/Festivos.build/Debug-iphoneos/Festivos.build/DerivedSources/armv7s -I/Users/cgaitan/Desktop/Festivos/build/Festivos.build/Debug-iphoneos/Festivos.build/DerivedSources -F/Users/cgaitan/Library/Developer/Xcode/DerivedData/Festivos-afyohxwkijhmpehdwoycdlcfvidp/Build/Products/Debug-iphoneos -include /var/folders/dm/07knvstx07d9zd0m3r8lsv8m0000gp/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Festivos-Prefix-euhufzihzfepcmbrncfshymztxup/Festivos-Prefix.pch -MMD -MT dependencies -MF /Users/cgaitan/Desktop/Festivos/build/Festivos.build/Debug-iphoneos/Festivos.build/Objects-normal/armv7s/Calculos.d --serialize-diagnostics /Users/cgaitan/Desktop/Festivos/build/Festivos.build/Debug-iphoneos/Festivos.build/Objects-normal/armv7s/Calculos.dia -c /Users/cgaitan/Desktop/Festivos/Festivos/Calculos.m -o /Users/cgaitan/Desktop/Festivos/build/Festivos.build/Debug-iphoneos/Festivos.build/Objects-normal/armv7s/Calculos.o36"E0AC4AB2-8D63-4562-BD8A-057DD536BF78-
+b9B271281-D621-4165-952C-004DF466C56A
+
+CCompileC build/Festivos.build/Debug-iphoneos/Festivos.build/Objects-normal/armv7s/FechasFestivas.o /Users/cgaitan/Desktop/Festivos/Festivos/FechasFestivas.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s418063640.668055
+e418063640.729852
+r1
+xCompileC
+xbuild/Festivos.build/Debug-iphoneos/Festivos.build/Objects-normal/armv7s/FechasFestivas.o
+x/Users/cgaitan/Desktop/Festivos/Festivos/FechasFestivas.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/cgaitan/Desktop/Festivos/Festivos/FechasFestivas.m
+d/Users/cgaitan/Desktop/Festivos/Festivos/FechasFestivas.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"Compile /Users/cgaitan/Desktop/Festivos/Festivos/FechasFestivas.m194"CompileC build/Festivos.build/Debug-iphoneos/Festivos.build/Objects-normal/armv7s/FechasFestivas.o Festivos/FechasFestivas.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compilerae64ab1825ebb841^a1d8ba1825ebb841^---0#0#1#-19%DVTDocumentLocation2@64"file:///Users/cgaitan/Desktop/Festivos/Festivos/FechasFestivas.m0000000000000000^3336"CompileC build/Festivos.build/Debug-iphoneos/Festivos.build/Objects-normal/armv7s/FechasFestivas.o Festivos/FechasFestivas.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/cgaitan/Desktop/Festivos    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/var/folders/dm/07knvstx07d9zd0m3r8lsv8m0000gp/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/cgaitan/Desktop/Festivos/build/Festivos.build/Debug-iphoneos/Festivos.build/Festivos-generated-files.hmap -I/Users/cgaitan/Desktop/Festivos/build/Festivos.build/Debug-iphoneos/Festivos.build/Festivos-own-target-headers.hmap -I/Users/cgaitan/Desktop/Festivos/build/Festivos.build/Debug-iphoneos/Festivos.build/Festivos-all-target-headers.hmap -iquote /Users/cgaitan/Desktop/Festivos/build/Festivos.build/Debug-iphoneos/Festivos.build/Festivos-project-headers.hmap -I/Users/cgaitan/Library/Developer/Xcode/DerivedData/Festivos-afyohxwkijhmpehdwoycdlcfvidp/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/cgaitan/Desktop/Festivos/build/Festivos.build/Debug-iphoneos/Festivos.build/DerivedSources/armv7s -I/Users/cgaitan/Desktop/Festivos/build/Festivos.build/Debug-iphoneos/Festivos.build/DerivedSources -F/Users/cgaitan/Library/Developer/Xcode/DerivedData/Festivos-afyohxwkijhmpehdwoycdlcfvidp/Build/Products/Debug-iphoneos -include /var/folders/dm/07knvstx07d9zd0m3r8lsv8m0000gp/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Festivos-Prefix-euhufzihzfepcmbrncfshymztxup/Festivos-Prefix.pch -MMD -MT dependencies -MF /Users/cgaitan/Desktop/Festivos/build/Festivos.build/Debug-iphoneos/Festivos.build/Objects-normal/armv7s/FechasFestivas.d --serialize-diagnostics /Users/cgaitan/Desktop/Festivos/build/Festivos.build/Debug-iphoneos/Festivos.build/Objects-normal/armv7s/FechasFestivas.dia -c /Users/cgaitan/Desktop/Festivos/Festivos/FechasFestivas.m -o /Users/cgaitan/Desktop/Festivos/build/Festivos.build/Debug-iphoneos/Festivos.build/Objects-normal/armv7s/FechasFestivas.o36"D1E3AC4C-A80E-4050-B9D1-100ABA480DA4-
+b9B271281-D621-4165-952C-004DF466C56A
+
+CCompileC build/Festivos.build/Debug-iphoneos/Festivos.build/Objects-normal/armv7s/Festivos.o /Users/cgaitan/Desktop/Festivos/Festivos/Festivos.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s418063640.619919
+e418063640.729908
+r1
+xCompileC
+xbuild/Festivos.build/Debug-iphoneos/Festivos.build/Objects-normal/armv7s/Festivos.o
+x/Users/cgaitan/Desktop/Festivos/Festivos/Festivos.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/cgaitan/Desktop/Festivos/Festivos/Festivos.m
+d/Users/cgaitan/Desktop/Festivos/Festivos/Festivos.h
+d/Users/cgaitan/Desktop/Festivos/Festivos/Calculos.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection59"Compile /Users/cgaitan/Desktop/Festivos/Festivos/Festivos.m182"CompileC build/Festivos.build/Debug-iphoneos/Festivos.build/Objects-normal/armv7s/Festivos.o Festivos/Festivos.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler30629f1825ebb841^89b7ba1825ebb841^---0#0#1#-19%DVTDocumentLocation2@58"file:///Users/cgaitan/Desktop/Festivos/Festivos/Festivos.m0000000000000000^3300"CompileC build/Festivos.build/Debug-iphoneos/Festivos.build/Objects-normal/armv7s/Festivos.o Festivos/Festivos.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/cgaitan/Desktop/Festivos    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/var/folders/dm/07knvstx07d9zd0m3r8lsv8m0000gp/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/cgaitan/Desktop/Festivos/build/Festivos.build/Debug-iphoneos/Festivos.build/Festivos-generated-files.hmap -I/Users/cgaitan/Desktop/Festivos/build/Festivos.build/Debug-iphoneos/Festivos.build/Festivos-own-target-headers.hmap -I/Users/cgaitan/Desktop/Festivos/build/Festivos.build/Debug-iphoneos/Festivos.build/Festivos-all-target-headers.hmap -iquote /Users/cgaitan/Desktop/Festivos/build/Festivos.build/Debug-iphoneos/Festivos.build/Festivos-project-headers.hmap -I/Users/cgaitan/Library/Developer/Xcode/DerivedData/Festivos-afyohxwkijhmpehdwoycdlcfvidp/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/cgaitan/Desktop/Festivos/build/Festivos.build/Debug-iphoneos/Festivos.build/DerivedSources/armv7s -I/Users/cgaitan/Desktop/Festivos/build/Festivos.build/Debug-iphoneos/Festivos.build/DerivedSources -F/Users/cgaitan/Library/Developer/Xcode/DerivedData/Festivos-afyohxwkijhmpehdwoycdlcfvidp/Build/Products/Debug-iphoneos -include /var/folders/dm/07knvstx07d9zd0m3r8lsv8m0000gp/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Festivos-Prefix-euhufzihzfepcmbrncfshymztxup/Festivos-Prefix.pch -MMD -MT dependencies -MF /Users/cgaitan/Desktop/Festivos/build/Festivos.build/Debug-iphoneos/Festivos.build/Objects-normal/armv7s/Festivos.d --serialize-diagnostics /Users/cgaitan/Desktop/Festivos/build/Festivos.build/Debug-iphoneos/Festivos.build/Objects-normal/armv7s/Festivos.dia -c /Users/cgaitan/Desktop/Festivos/Festivos/Festivos.m -o /Users/cgaitan/Desktop/Festivos/build/Festivos.build/Debug-iphoneos/Festivos.build/Objects-normal/armv7s/Festivos.o36"56BCE6E8-16D1-48F0-9E88-556C086E919E-
+b9B271281-D621-4165-952C-004DF466C56A
+
+CCompileC build/Festivos.build/Debug-iphoneos/Festivos.build/Objects-normal/armv7s/VerificadorDeFestivos.o /Users/cgaitan/Desktop/Festivos/Festivos/VerificadorDeFestivos.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s418063640.700328
+e418063640.816109
+r1
+xCompileC
+xbuild/Festivos.build/Debug-iphoneos/Festivos.build/Objects-normal/armv7s/VerificadorDeFestivos.o
+x/Users/cgaitan/Desktop/Festivos/Festivos/VerificadorDeFestivos.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/cgaitan/Desktop/Festivos/Festivos/VerificadorDeFestivos.m
+d/Users/cgaitan/Desktop/Festivos/Festivos/VerificadorDeFestivos.h
+d/Users/cgaitan/Desktop/Festivos/Festivos/FechasFestivas.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection72"Compile /Users/cgaitan/Desktop/Festivos/Festivos/VerificadorDeFestivos.m208"CompileC build/Festivos.build/Debug-iphoneos/Festivos.build/Objects-normal/armv7s/VerificadorDeFestivos.o Festivos/VerificadorDeFestivos.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compileradbdb31825ebb841^bd1dd11825ebb841^---0#0#1#-19%DVTDocumentLocation2@71"file:///Users/cgaitan/Desktop/Festivos/Festivos/VerificadorDeFestivos.m0000000000000000^3378"CompileC build/Festivos.build/Debug-iphoneos/Festivos.build/Objects-normal/armv7s/VerificadorDeFestivos.o Festivos/VerificadorDeFestivos.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/cgaitan/Desktop/Festivos    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/var/folders/dm/07knvstx07d9zd0m3r8lsv8m0000gp/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/cgaitan/Desktop/Festivos/build/Festivos.build/Debug-iphoneos/Festivos.build/Festivos-generated-files.hmap -I/Users/cgaitan/Desktop/Festivos/build/Festivos.build/Debug-iphoneos/Festivos.build/Festivos-own-target-headers.hmap -I/Users/cgaitan/Desktop/Festivos/build/Festivos.build/Debug-iphoneos/Festivos.build/Festivos-all-target-headers.hmap -iquote /Users/cgaitan/Desktop/Festivos/build/Festivos.build/Debug-iphoneos/Festivos.build/Festivos-project-headers.hmap -I/Users/cgaitan/Library/Developer/Xcode/DerivedData/Festivos-afyohxwkijhmpehdwoycdlcfvidp/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/cgaitan/Desktop/Festivos/build/Festivos.build/Debug-iphoneos/Festivos.build/DerivedSources/armv7s -I/Users/cgaitan/Desktop/Festivos/build/Festivos.build/Debug-iphoneos/Festivos.build/DerivedSources -F/Users/cgaitan/Library/Developer/Xcode/DerivedData/Festivos-afyohxwkijhmpehdwoycdlcfvidp/Build/Products/Debug-iphoneos -include /var/folders/dm/07knvstx07d9zd0m3r8lsv8m0000gp/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Festivos-Prefix-euhufzihzfepcmbrncfshymztxup/Festivos-Prefix.pch -MMD -MT dependencies -MF /Users/cgaitan/Desktop/Festivos/build/Festivos.build/Debug-iphoneos/Festivos.build/Objects-normal/armv7s/VerificadorDeFestivos.d --serialize-diagnostics /Users/cgaitan/Desktop/Festivos/build/Festivos.build/Debug-iphoneos/Festivos.build/Objects-normal/armv7s/VerificadorDeFestivos.dia -c /Users/cgaitan/Desktop/Festivos/Festivos/VerificadorDeFestivos.m -o /Users/cgaitan/Desktop/Festivos/build/Festivos.build/Debug-iphoneos/Festivos.build/Objects-normal/armv7s/VerificadorDeFestivos.o36"8924A23E-AFC3-457F-88C8-1C09C10152B4-
+b9B271281-D621-4165-952C-004DF466C56A
+
+CCreateUniversalBinary /Users/cgaitan/Library/Developer/Xcode/DerivedData/Festivos-afyohxwkijhmpehdwoycdlcfvidp/Build/Products/Debug-iphoneos/libFestivos.a normal armv7\ armv7s\ arm64
+s418063641.026142
+e418063641.155812
+r1
+xCreateUniversalBinary
+x/Users/cgaitan/Library/Developer/Xcode/DerivedData/Festivos-afyohxwkijhmpehdwoycdlcfvidp/Build/Products/Debug-iphoneos/libFestivos.a
+xnormal
+xarmv7 armv7s arm64
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection156"Create universal binary /Users/cgaitan/Library/Developer/Xcode/DerivedData/Festivos-afyohxwkijhmpehdwoycdlcfvidp/Build/Products/Debug-iphoneos/libFestivos.a182"CreateUniversalBinary /Users/cgaitan/Library/Developer/Xcode/DerivedData/Festivos-afyohxwkijhmpehdwoycdlcfvidp/Build/Products/Debug-iphoneos/libFestivos.a normal armv7\ armv7s\ arm64dcf1061925ebb841^04e4271925ebb841^---0#0#1#-19%DVTDocumentLocation2@139"file:///Users/cgaitan/Library/Developer/Xcode/DerivedData/Festivos-afyohxwkijhmpehdwoycdlcfvidp/Build/Products/Debug-iphoneos/libFestivos.a0034a492dcffdf42^733"CreateUniversalBinary /Users/cgaitan/Library/Developer/Xcode/DerivedData/Festivos-afyohxwkijhmpehdwoycdlcfvidp/Build/Products/Debug-iphoneos/libFestivos.a normal armv7\ armv7s\ arm64    cd /Users/cgaitan/Desktop/Festivos    libtool -static /Users/cgaitan/Desktop/Festivos/build/Festivos.build/Debug-iphoneos/Festivos.build/Objects-normal/armv7/libFestivos.a /Users/cgaitan/Desktop/Festivos/build/Festivos.build/Debug-iphoneos/Festivos.build/Objects-normal/armv7s/libFestivos.a /Users/cgaitan/Desktop/Festivos/build/Festivos.build/Debug-iphoneos/Festivos.build/Objects-normal/arm64/libFestivos.a -o /Users/cgaitan/Library/Developer/Xcode/DerivedData/Festivos-afyohxwkijhmpehdwoycdlcfvidp/Build/Products/Debug-iphoneos/libFestivos.a36"CF64F48B-7133-4B54-9497-9AE469C188AF-
+b9B271281-D621-4165-952C-004DF466C56A
+
+CLibtool /Users/cgaitan/Desktop/Festivos/build/Festivos.build/Debug-iphoneos/Festivos.build/Objects-normal/arm64/libFestivos.a normal arm64
+s418063640.867289
+e418063640.968932
+r1
+xLibtool
+x/Users/cgaitan/Desktop/Festivos/build/Festivos.build/Debug-iphoneos/Festivos.build/Objects-normal/arm64/libFestivos.a
+xnormal
+xarm64
+o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"Libtool build/Festivos.build/Debug-iphoneos/Festivos.build/Objects-normal/arm64/libFestivos.a normal arm64106"Libtool build/Festivos.build/Debug-iphoneos/Festivos.build/Objects-normal/arm64/libFestivos.a normal arm64734cde1825ebb841^bb0bf81825ebb841^-159"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC -0#0#1#--832"Libtool build/Festivos.build/Debug-iphoneos/Festivos.build/Objects-normal/arm64/libFestivos.a normal arm64    cd /Users/cgaitan/Desktop/Festivos    setenv IPHONEOS_DEPLOYMENT_TARGET 7.0    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only arm64 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -L/Users/cgaitan/Library/Developer/Xcode/DerivedData/Festivos-afyohxwkijhmpehdwoycdlcfvidp/Build/Products/Debug-iphoneos -filelist /Users/cgaitan/Desktop/Festivos/build/Festivos.build/Debug-iphoneos/Festivos.build/Objects-normal/arm64/Festivos.LinkFileList -ObjC -framework Foundation -o /Users/cgaitan/Desktop/Festivos/build/Festivos.build/Debug-iphoneos/Festivos.build/Objects-normal/arm64/libFestivos.a36"61F66483-7F20-4D5A-A55F-5B5B0A5E0B31-
+b9B271281-D621-4165-952C-004DF466C56A
+
+CLibtool /Users/cgaitan/Desktop/Festivos/build/Festivos.build/Debug-iphoneos/Festivos.build/Objects-normal/armv7/libFestivos.a normal armv7
+s418063640.866235
+e418063641.002098
+r1
+xLibtool
+x/Users/cgaitan/Desktop/Festivos/build/Festivos.build/Debug-iphoneos/Festivos.build/Objects-normal/armv7/libFestivos.a
+xnormal
+xarmv7
+o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"Libtool build/Festivos.build/Debug-iphoneos/Festivos.build/Objects-normal/armv7/libFestivos.a normal armv7106"Libtool build/Festivos.build/Debug-iphoneos/Festivos.build/Objects-normal/armv7/libFestivos.a normal armv7b117de1825ebb841^ce8e001925ebb841^-159"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC -0#0#1#--832"Libtool build/Festivos.build/Debug-iphoneos/Festivos.build/Objects-normal/armv7/libFestivos.a normal armv7    cd /Users/cgaitan/Desktop/Festivos    setenv IPHONEOS_DEPLOYMENT_TARGET 7.0    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only armv7 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -L/Users/cgaitan/Library/Developer/Xcode/DerivedData/Festivos-afyohxwkijhmpehdwoycdlcfvidp/Build/Products/Debug-iphoneos -filelist /Users/cgaitan/Desktop/Festivos/build/Festivos.build/Debug-iphoneos/Festivos.build/Objects-normal/armv7/Festivos.LinkFileList -ObjC -framework Foundation -o /Users/cgaitan/Desktop/Festivos/build/Festivos.build/Debug-iphoneos/Festivos.build/Objects-normal/armv7/libFestivos.a36"DF1B0581-C9CB-4756-A75A-364BF4070224-
+b9B271281-D621-4165-952C-004DF466C56A
+
+CLibtool /Users/cgaitan/Desktop/Festivos/build/Festivos.build/Debug-iphoneos/Festivos.build/Objects-normal/armv7s/libFestivos.a normal armv7s
+s418063640.866854
+e418063641.025032
+r1
+xLibtool
+x/Users/cgaitan/Desktop/Festivos/build/Festivos.build/Debug-iphoneos/Festivos.build/Objects-normal/armv7s/libFestivos.a
+xnormal
+xarmv7s
+o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"Libtool build/Festivos.build/Debug-iphoneos/Festivos.build/Objects-normal/armv7s/libFestivos.a normal armv7s108"Libtool build/Festivos.build/Debug-iphoneos/Festivos.build/Objects-normal/armv7s/libFestivos.a normal armv7sbc24de1825ebb841^016a061925ebb841^-159"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC -0#0#1#--837"Libtool build/Festivos.build/Debug-iphoneos/Festivos.build/Objects-normal/armv7s/libFestivos.a normal armv7s    cd /Users/cgaitan/Desktop/Festivos    setenv IPHONEOS_DEPLOYMENT_TARGET 7.0    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only armv7s -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -L/Users/cgaitan/Library/Developer/Xcode/DerivedData/Festivos-afyohxwkijhmpehdwoycdlcfvidp/Build/Products/Debug-iphoneos -filelist /Users/cgaitan/Desktop/Festivos/build/Festivos.build/Debug-iphoneos/Festivos.build/Objects-normal/armv7s/Festivos.LinkFileList -ObjC -framework Foundation -o /Users/cgaitan/Desktop/Festivos/build/Festivos.build/Debug-iphoneos/Festivos.build/Objects-normal/armv7s/libFestivos.a36"BC79BD39-60FE-49C1-A01F-983DCCED9603-
+b9B271281-D621-4165-952C-004DF466C56A
+
+CPBXCp Festivos/Festivos.h /Users/cgaitan/Library/Developer/Xcode/DerivedData/Festivos-afyohxwkijhmpehdwoycdlcfvidp/Build/Products/Debug-iphoneos/include/Festivos/Festivos.h
+s418063641.205931
+e418063641.238775
+r1
+xPBXCp
+xFestivos/Festivos.h
+x/Users/cgaitan/Library/Developer/Xcode/DerivedData/Festivos-afyohxwkijhmpehdwoycdlcfvidp/Build/Products/Debug-iphoneos/include/Festivos/Festivos.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection151"Copy /Users/cgaitan/Library/Developer/Xcode/DerivedData/Festivos-afyohxwkijhmpehdwoycdlcfvidp/Build/Products/Debug-iphoneos/include/Festivos/Festivos.h172"PBXCp Festivos/Festivos.h /Users/cgaitan/Library/Developer/Xcode/DerivedData/Festivos-afyohxwkijhmpehdwoycdlcfvidp/Build/Products/Debug-iphoneos/include/Festivos/Festivos.h87fb341925ebb841^68213d1925ebb841^---0#0#1#-19%DVTDocumentLocation2@153"file:///Users/cgaitan/Library/Developer/Xcode/DerivedData/Festivos-afyohxwkijhmpehdwoycdlcfvidp/Build/Products/Debug-iphoneos/include/Festivos/Festivos.h0034a492dcffdf42^512"PBXCp Festivos/Festivos.h /Users/cgaitan/Library/Developer/Xcode/DerivedData/Festivos-afyohxwkijhmpehdwoycdlcfvidp/Build/Products/Debug-iphoneos/include/Festivos/Festivos.h    cd /Users/cgaitan/Desktop/Festivos    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/cgaitan/Desktop/Festivos/Festivos/Festivos.h /Users/cgaitan/Library/Developer/Xcode/DerivedData/Festivos-afyohxwkijhmpehdwoycdlcfvidp/Build/Products/Debug-iphoneos/include/Festivos36"194E989E-E920-4E37-955C-D4B6B93AE9CA-
+b9B271281-D621-4165-952C-004DF466C56A
+
+CProcessPCH /var/folders/dm/07knvstx07d9zd0m3r8lsv8m0000gp/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Festivos-Prefix-bshzisdkjkwwjicgeodtrdcacbnt/Festivos-Prefix.pch.pch Festivos/Festivos-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s418063638.030322
+e418063640.212014
+r1
+xProcessPCH
+x/var/folders/dm/07knvstx07d9zd0m3r8lsv8m0000gp/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Festivos-Prefix-bshzisdkjkwwjicgeodtrdcacbnt/Festivos-Prefix.pch.pch
+xFestivos/Festivos-Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/cgaitan/Desktop/Festivos/Festivos/Festivos-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection39"Precompile Festivos/Festivos-Prefix.pch314"ProcessPCH /var/folders/dm/07knvstx07d9zd0m3r8lsv8m0000gp/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Festivos-Prefix-bshzisdkjkwwjicgeodtrdcacbnt/Festivos-Prefix.pch.pch Festivos/Festivos-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compilereb3a081625ebb841^f146361825ebb841^---0#0#1#-19%DVTDocumentLocation2@67"file:///Users/cgaitan/Desktop/Festivos/Festivos/Festivos-Prefix.pch0000000000000000^3501"ProcessPCH /var/folders/dm/07knvstx07d9zd0m3r8lsv8m0000gp/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Festivos-Prefix-bshzisdkjkwwjicgeodtrdcacbnt/Festivos-Prefix.pch.pch Festivos/Festivos-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/cgaitan/Desktop/Festivos    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/var/folders/dm/07knvstx07d9zd0m3r8lsv8m0000gp/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/cgaitan/Desktop/Festivos/build/Festivos.build/Debug-iphoneos/Festivos.build/Festivos-generated-files.hmap -I/Users/cgaitan/Desktop/Festivos/build/Festivos.build/Debug-iphoneos/Festivos.build/Festivos-own-target-headers.hmap -I/Users/cgaitan/Desktop/Festivos/build/Festivos.build/Debug-iphoneos/Festivos.build/Festivos-all-target-headers.hmap -iquote /Users/cgaitan/Desktop/Festivos/build/Festivos.build/Debug-iphoneos/Festivos.build/Festivos-project-headers.hmap -I/Users/cgaitan/Library/Developer/Xcode/DerivedData/Festivos-afyohxwkijhmpehdwoycdlcfvidp/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/cgaitan/Desktop/Festivos/build/Festivos.build/Debug-iphoneos/Festivos.build/DerivedSources/armv7 -I/Users/cgaitan/Desktop/Festivos/build/Festivos.build/Debug-iphoneos/Festivos.build/DerivedSources -F/Users/cgaitan/Library/Developer/Xcode/DerivedData/Festivos-afyohxwkijhmpehdwoycdlcfvidp/Build/Products/Debug-iphoneos --serialize-diagnostics /var/folders/dm/07knvstx07d9zd0m3r8lsv8m0000gp/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Festivos-Prefix-bshzisdkjkwwjicgeodtrdcacbnt/Festivos-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/dm/07knvstx07d9zd0m3r8lsv8m0000gp/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Festivos-Prefix-bshzisdkjkwwjicgeodtrdcacbnt/Festivos-Prefix.pch.d -c /Users/cgaitan/Desktop/Festivos/Festivos/Festivos-Prefix.pch -o /var/folders/dm/07knvstx07d9zd0m3r8lsv8m0000gp/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Festivos-Prefix-bshzisdkjkwwjicgeodtrdcacbnt/Festivos-Prefix.pch.pch36"AD314FB0-49C8-42CA-A701-96D477676962-
+b9B271281-D621-4165-952C-004DF466C56A
+
+CProcessPCH /var/folders/dm/07knvstx07d9zd0m3r8lsv8m0000gp/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Festivos-Prefix-cxuqupvmurmslnbwcsjijcrugvle/Festivos-Prefix.pch.pch Festivos/Festivos-Prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s418063638.031014
+e418063640.228420
+r1
+xProcessPCH
+x/var/folders/dm/07knvstx07d9zd0m3r8lsv8m0000gp/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Festivos-Prefix-cxuqupvmurmslnbwcsjijcrugvle/Festivos-Prefix.pch.pch
+xFestivos/Festivos-Prefix.pch
+xnormal
+xarm64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/cgaitan/Desktop/Festivos/Festivos/Festivos-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection39"Precompile Festivos/Festivos-Prefix.pch314"ProcessPCH /var/folders/dm/07knvstx07d9zd0m3r8lsv8m0000gp/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Festivos-Prefix-cxuqupvmurmslnbwcsjijcrugvle/Festivos-Prefix.pch.pch Festivos/Festivos-Prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler8655081625ebb841^6c7c3a1825ebb841^---0#0#1#-19%DVTDocumentLocation2@67"file:///Users/cgaitan/Desktop/Festivos/Festivos/Festivos-Prefix.pch0000000000000000^3501"ProcessPCH /var/folders/dm/07knvstx07d9zd0m3r8lsv8m0000gp/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Festivos-Prefix-cxuqupvmurmslnbwcsjijcrugvle/Festivos-Prefix.pch.pch Festivos/Festivos-Prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/cgaitan/Desktop/Festivos    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/var/folders/dm/07knvstx07d9zd0m3r8lsv8m0000gp/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/cgaitan/Desktop/Festivos/build/Festivos.build/Debug-iphoneos/Festivos.build/Festivos-generated-files.hmap -I/Users/cgaitan/Desktop/Festivos/build/Festivos.build/Debug-iphoneos/Festivos.build/Festivos-own-target-headers.hmap -I/Users/cgaitan/Desktop/Festivos/build/Festivos.build/Debug-iphoneos/Festivos.build/Festivos-all-target-headers.hmap -iquote /Users/cgaitan/Desktop/Festivos/build/Festivos.build/Debug-iphoneos/Festivos.build/Festivos-project-headers.hmap -I/Users/cgaitan/Library/Developer/Xcode/DerivedData/Festivos-afyohxwkijhmpehdwoycdlcfvidp/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/cgaitan/Desktop/Festivos/build/Festivos.build/Debug-iphoneos/Festivos.build/DerivedSources/arm64 -I/Users/cgaitan/Desktop/Festivos/build/Festivos.build/Debug-iphoneos/Festivos.build/DerivedSources -F/Users/cgaitan/Library/Developer/Xcode/DerivedData/Festivos-afyohxwkijhmpehdwoycdlcfvidp/Build/Products/Debug-iphoneos --serialize-diagnostics /var/folders/dm/07knvstx07d9zd0m3r8lsv8m0000gp/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Festivos-Prefix-cxuqupvmurmslnbwcsjijcrugvle/Festivos-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/dm/07knvstx07d9zd0m3r8lsv8m0000gp/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Festivos-Prefix-cxuqupvmurmslnbwcsjijcrugvle/Festivos-Prefix.pch.d -c /Users/cgaitan/Desktop/Festivos/Festivos/Festivos-Prefix.pch -o /var/folders/dm/07knvstx07d9zd0m3r8lsv8m0000gp/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Festivos-Prefix-cxuqupvmurmslnbwcsjijcrugvle/Festivos-Prefix.pch.pch36"A638803A-E62C-4A3B-86E2-4ABA94F905B4-
+b9B271281-D621-4165-952C-004DF466C56A
+
+CProcessPCH /var/folders/dm/07knvstx07d9zd0m3r8lsv8m0000gp/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Festivos-Prefix-euhufzihzfepcmbrncfshymztxup/Festivos-Prefix.pch.pch Festivos/Festivos-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s418063638.030646
+e418063640.214962
+r1
+xProcessPCH
+x/var/folders/dm/07knvstx07d9zd0m3r8lsv8m0000gp/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Festivos-Prefix-euhufzihzfepcmbrncfshymztxup/Festivos-Prefix.pch.pch
+xFestivos/Festivos-Prefix.pch
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/cgaitan/Desktop/Festivos/Festivos/Festivos-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection39"Precompile Festivos/Festivos-Prefix.pch315"ProcessPCH /var/folders/dm/07knvstx07d9zd0m3r8lsv8m0000gp/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Festivos-Prefix-euhufzihzfepcmbrncfshymztxup/Festivos-Prefix.pch.pch Festivos/Festivos-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler5741081625ebb841^5f0a371825ebb841^---0#0#1#-19%DVTDocumentLocation2@67"file:///Users/cgaitan/Desktop/Festivos/Festivos/Festivos-Prefix.pch0000000000000000^3504"ProcessPCH /var/folders/dm/07knvstx07d9zd0m3r8lsv8m0000gp/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Festivos-Prefix-euhufzihzfepcmbrncfshymztxup/Festivos-Prefix.pch.pch Festivos/Festivos-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/cgaitan/Desktop/Festivos    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/var/folders/dm/07knvstx07d9zd0m3r8lsv8m0000gp/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/cgaitan/Desktop/Festivos/build/Festivos.build/Debug-iphoneos/Festivos.build/Festivos-generated-files.hmap -I/Users/cgaitan/Desktop/Festivos/build/Festivos.build/Debug-iphoneos/Festivos.build/Festivos-own-target-headers.hmap -I/Users/cgaitan/Desktop/Festivos/build/Festivos.build/Debug-iphoneos/Festivos.build/Festivos-all-target-headers.hmap -iquote /Users/cgaitan/Desktop/Festivos/build/Festivos.build/Debug-iphoneos/Festivos.build/Festivos-project-headers.hmap -I/Users/cgaitan/Library/Developer/Xcode/DerivedData/Festivos-afyohxwkijhmpehdwoycdlcfvidp/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/cgaitan/Desktop/Festivos/build/Festivos.build/Debug-iphoneos/Festivos.build/DerivedSources/armv7s -I/Users/cgaitan/Desktop/Festivos/build/Festivos.build/Debug-iphoneos/Festivos.build/DerivedSources -F/Users/cgaitan/Library/Developer/Xcode/DerivedData/Festivos-afyohxwkijhmpehdwoycdlcfvidp/Build/Products/Debug-iphoneos --serialize-diagnostics /var/folders/dm/07knvstx07d9zd0m3r8lsv8m0000gp/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Festivos-Prefix-euhufzihzfepcmbrncfshymztxup/Festivos-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/dm/07knvstx07d9zd0m3r8lsv8m0000gp/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Festivos-Prefix-euhufzihzfepcmbrncfshymztxup/Festivos-Prefix.pch.d -c /Users/cgaitan/Desktop/Festivos/Festivos/Festivos-Prefix.pch -o /var/folders/dm/07knvstx07d9zd0m3r8lsv8m0000gp/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Festivos-Prefix-euhufzihzfepcmbrncfshymztxup/Festivos-Prefix.pch.pch36"67D50FA2-7804-4227-BB1A-DA0C3D7F8D50-
+b9B271281-D621-4165-952C-004DF466C56A
+
